@@ -1,1 +1,24 @@
-# nextjs-nextauth-tut
+This project is a result of a tutorial that I created to show how to create authentication in Nextjs using NextAuth.
+
+It differentiates between the `app` and `pages` router.
+
+Find the tutorial [here]()
+
+## Dependencies
+* [React](https://react.dev/)
+* [Next](https://nextjs.org/)
+* [faunadb](https://fauna.com/)
+* [NextAuth](https://next-auth.js.org/)
+* [Prisma](https://www.prisma.io/)
+* [Postgres](https://www.postgresql.org/)
+
+## Installation
+* Clone this repo `https://github.com/EBEREGIT/nextjs-nextauth-tut`
+* Navigate into the repo `cd nextjs-nextauth-tut`
+* Navigate into any of the folder `cd <folder_name>`
+* Install the dependencies ``npm install``
+* Start the local server ``npm run dev``
+
+*That will open the project on your default browser: http://localhost:3000/.*
+
+* Click on http://localhost:3000/api/auth/signin and pay around with the authentication form.
