@@ -21,4 +21,4 @@ Find the tutorial [here]()
 
 *That will open the project on your default browser: http://localhost:3000/.*
 
-* Click on http://localhost:3000/api/auth/signin and pay around with the authentication form.
+* Click on http://localhost:3000/api/auth/signin and play around with the authentication form.
