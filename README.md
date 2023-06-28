@@ -1,6 +1,6 @@
-This project is a result of a tutorial that I created to show how to create authentication in Nextjs using NextAuth.
+This project results from a tutorial I created to show how to create authentication in Nextjs using NextAuth.
 
-It differentiates between the `app` and `pages` router.
+It differentiates between the `app` and `pages` routing patterns.
 
 Find the tutorial [here]()
 
@@ -15,7 +15,7 @@ Find the tutorial [here]()
 ## Installation
 * Clone this repo `https://github.com/EBEREGIT/nextjs-nextauth-tut`
 * Navigate into the repo `cd nextjs-nextauth-tut`
-* Navigate into any of the folder `cd <folder_name>`
+* Navigate into any of the folders `cd <folder_name>`
 * Install the dependencies ``npm install``
 * Start the local server ``npm run dev``
 
