@@ -4,6 +4,9 @@ It differentiates between the `app` and `pages` routing patterns.
 
 Find the tutorial [here]()
 
+See Video Tutorial: 
+[![extjs 13 App Router VS Pages Router - How To Authenticate Users In Nextjs With NextAuth](https://raw.githubusercontent.com/EBEREGIT/nextjs-nextauth-tut/ffeeb304de1b66b85525ccfd3a304f3b9a1cdebf/0502-Cover.jpg)](https://youtu.be/pEAthPOxZd0)
+
 ## Dependencies
 * [React](https://react.dev/)
 * [Next](https://nextjs.org/)
